@@ -1,13 +1,9 @@
 namespace Breaworlds.Server
 {
-	public struct Achievement
+	public struct CommentData
 	{
 		public string Name;
 
 		public string Text;
-
-		public int Amount;
-
-		public AchievementReward Reward;
 	}
 }
